@@ -5,7 +5,7 @@ import React from 'react';
 import moment from 'moment-timezone'
 
 const ClockWidget = () => {
-  const [clocks, setClocks] = useState([{name: "Irkutsk", timezone: "Etc/GMT-8"}, {name: "Vladivostok", timezone: "Etc/GMT-3"}]);
+  const [clocks, setClocks] = useState([{name: "Irkutsk", timezone: "Etc/GMT-8"}, {name: "Vladivostok", timezone: "Etc/GMT-10"}]);
   const [time, setTime] = useState(moment());
 
   const refreshTime = React.useCallback(() => {
