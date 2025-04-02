@@ -1,0 +1,6 @@
+1. Clock (JS/HTML/CSS). 
+    Author: Jeffrey Taylor. 
+    Source: Codepen (https://codepen.io/JeffreyTaylor/pen/zZgKvw)
+2. Clock icon (favicon). 
+    Author: Ilham Fitrotul Hayat. 
+    Source: (https://www.flaticon.com/free-icon/clock_3114812?term=clock&page=1&position=7&origin=tag&related_id=3114812)
